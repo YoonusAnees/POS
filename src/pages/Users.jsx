@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import api from "../services/api";
-import { Card, CardHeader, CardContent, CardTitle, CardDescription } from "../components/ui/Card";
+import { Card, CardHeader, CardContent, CardTitle, CardDescription } from "../components/ui/card";
 import { Input } from "../components/ui/Input";
 import { Button } from "../components/ui/Button";
 
