@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import api from "../services/api";
-import { Card, CardHeader, CardContent } from "../components/ui/Card";
+import { Card, CardHeader, CardContent } from "../components/ui/card";
 import { Link } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import {
