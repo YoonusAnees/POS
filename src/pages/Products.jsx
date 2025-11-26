@@ -62,7 +62,7 @@ export default function Products() {
           <Package className="text-emerald-600" size={40} />
           Manage Products
         </h1>
-        <p className="text-gray-600 mt-2">Add, edit, and track your gym inventory</p>
+        <p className="text-gray-600 mt-2">Add, edit, and track your Pos inventory</p>
       </div>
 
       {/* Add Product Form – Glassmorphism Card */}

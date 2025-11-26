@@ -149,7 +149,7 @@ export default function POS() {
         <div className="flex flex-col lg:flex-row justify-between items-start lg:items-center mb-8 gap-4">
           <div className="flex-1">
             <h1 className="text-4xl font-extrabold bg-gradient-to-r from-emerald-600 to-emerald-800 bg-clip-text text-transparent">
-              Fitzone POS
+              ME POS
             </h1>
             <p className="text-gray-600 mt-2">Point of Sale System</p>
           </div>
