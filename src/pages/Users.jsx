@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import api from "../services/api";
 import { Card, CardHeader, CardContent, CardTitle, CardDescription } from "../components/ui/card";
 import { Input } from "../components/ui/input";
-import { Button } from "../components/ui/Button";
+import { Button } from "../components/ui/button";
 
 import { 
   Users as UsersIcon, 
