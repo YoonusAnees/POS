@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import api from "../services/api";
-import { Card } from "../components/ui/Card";
+import { Card } from "../components/ui/card";
 import { useNavigate } from "react-router-dom";
 
 export default function Sales() {
