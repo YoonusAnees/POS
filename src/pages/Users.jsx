@@ -1,7 +1,8 @@
+/* eslint-disable no-unused-vars */
 import React, { useEffect, useState } from "react";
 import api from "../services/api";
 import { Card, CardHeader, CardContent, CardTitle, CardDescription } from "../components/ui/card";
-import { Input } from "../components/ui/Input";
+import { Input } from "../components/ui/input";
 import { Button } from "../components/ui/Button";
 
 import { 
@@ -91,7 +92,7 @@ export default function UsersManagement() {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-50 to-blue-50 p-6">
+    <div className="min-h-screen bg-linear-to-br from-gray-50 to-blue-50 p-6">
       <div className="max-w-6xl mx-auto">
 
         {/* Header */}
